@@ -1,15 +1,12 @@
 # Manifold-Covers-of-Prism-Orbifolds (Thesis Project Code Repository)
 
-This repository contains the code and computational workflows used in my thesis project. The project is organized into four folders corresponding to Chapters 3, 4, 5 and 6 of the thesis. Each folder contains:
+This repository contains the code and computational workflows used in my thesis project. 
+
+## Repository Structure
+The project is organized into four folders corresponding to Chapters 3, 4, 5 and 6 of the thesis. Each folder contains:
 
 - A Jupyter Notebook detailing the computations performed in that chapter.
 - `.txt` files containing the results of the computations (except for chapter 3).
-
-## Repository Structure
-- **Chapter 3**: Contains the notebook and results related to computations in Chapter 3.
-- **Chapter 4**: Contains the notebook and results related to computations in Chapter 4.
-- **Chapter 5**: Contains the notebook and results related to computations in Chapter 5.
-- **Chapter 6**: Contains the notebook and results related to computations in Chapter 6.
 
 ## How to Use This Repository
 
