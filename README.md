@@ -1,4 +1,4 @@
-# Manifold-Covers-of-Prism-Orbifolds (Thesis Project Code Repository)
+# Manifold-Covers-of-Prism-Orbifolds
 
 This repository contains the code and computational workflows used in my thesis project. 
 
